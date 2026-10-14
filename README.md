@@ -3,3 +3,4 @@
 Ich lerne Git mit Terminal, VS Code und Tower.
 Ich übe den Git-Workflow mit den Tools meiner Firma.
 Diese Zeile wurde direkt auf GitHub hinzugefügt.
+Diese Änderung wurde im Branch feature-info gemacht.
